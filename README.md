@@ -28,7 +28,7 @@ This project demonstrates the integration of AI-powered language processing into
 ## ⚙️ Installation & Setup
 
 1. Clone the repository:
-   git clone https://github.com/your-username/AI-Language-Translator-App.git
+   git clone https://github.com/Anjalisj4g/AI-Language-Translator-App.git
 
 2. Navigate to the project folder:
    cd AI-Language-Translator-App
