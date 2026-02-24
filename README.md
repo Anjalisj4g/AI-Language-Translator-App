@@ -1,5 +1,8 @@
 # 🌍 AI Language Translator App
 
+![Uploading Screenshot 2026-02-19 144205.png…]()
+
+
 ## 📖 Overview
 The AI Language Translator App is a real-time web application built using Python and Streamlit.  
 It enables users to translate text between multiple languages instantly using a translation API.
